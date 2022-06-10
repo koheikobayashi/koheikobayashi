@@ -44,10 +44,10 @@
 
 - プログラミング
 
-  - ◎ Node.js
-  - ◎ JavaScript
+  - ○ Node.js
+  - ○ JavaScript
   - △ TypeScript
-  - ◎ Python3
+  - ○ Python3
   - ○ Ruby on Rails
 
 - データベース
