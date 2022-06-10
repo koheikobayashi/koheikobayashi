@@ -14,7 +14,7 @@
 - GCP、Ruby on Rails、Next.jsを使った在庫管理システム（フロント・バックエンド）
 - LIFFを使ったテイクアウトアプリ（フロント・バックエンド）
 - Rapberrypiを使った野生鳥獣発見システム
-- ECサイト、CRMのデータ連携、自動化
+- ECサイト、CRMのデータ連携、自動化（Javascript、Python）
 
 ## できること
 
