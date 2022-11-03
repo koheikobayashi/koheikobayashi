@@ -15,6 +15,8 @@
 - LIFFを使ったテイクアウトアプリ（フロント・バックエンド）
 - Rapberrypiを使った野生鳥獣発見システム
 - ECサイト、CRMのデータ連携、自動化（Javascript、Python）
+- GPT3を用いたテキスト生成ツール
+- Shopifyデータの可視化
 
 ## できること
 
@@ -58,7 +60,7 @@
   - ○ Node.js
   - ○ JavaScript
   - △ TypeScript
-  - ○ Python3
+  - ◎ Python3
   - ○ Ruby on Rails
 
 - データベース
@@ -72,6 +74,9 @@
     - CLOUD RUN
     - CLOUD SQL
     - COMPUTE ENGINE
+    - CLOUD STORAGE
+    - BIG QUERY
+    - CLOUD FUNCTIONS
   - ○ Firebase
 
 - サーバー
@@ -86,6 +91,7 @@
 - その他
   - ◎ Git
   - ◎ Github Actions
+  - ◎ Selenium
 
 ## Git
 
