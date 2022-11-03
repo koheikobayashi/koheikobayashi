@@ -94,7 +94,7 @@
   - ◎ Selenium
   - ◎ Tableau
   - ◎ GRAPH QL
-  - ◎ Google Analytics
+  - ○ Google Analytics
 
 ## Git
 
