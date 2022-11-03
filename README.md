@@ -92,6 +92,9 @@
   - ◎ Git
   - ◎ Github Actions
   - ◎ Selenium
+  - ◎ Tableau
+  - ◎ GRAPH QL
+  - ◎ Google Analytics
 
 ## Git
 
